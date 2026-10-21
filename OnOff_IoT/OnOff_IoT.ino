@@ -1,14 +1,14 @@
 
-#define BLYNK_TEMPLATE_ID "TMPL6z5cC7iWf"
-#define BLYNK_TEMPLATE_NAME "ON OFF Relay"
-#define BLYNK_AUTH_TOKEN "8K8xffKRoh0lzzpmYOODeJQWZ3KbTR_C"
+#define BLYNK_TEMPLATE_ID "xxxxxx"
+#define BLYNK_TEMPLATE_NAME "xxxxxx"
+#define BLYNK_AUTH_TOKEN "xxxxxxxxx"
 
 
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
 
-char ssid[] = "suryanaA1.6";
-char pass[] = "KostSuryana";
+char ssid[] = "xxxxxxxx";
+char pass[] = "xxxxxxxx";
 
 const int outputPin = 12;
 
